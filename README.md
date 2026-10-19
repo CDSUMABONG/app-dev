@@ -58,3 +58,6 @@ Set in an alternate 1890s America, **Steel Ball Run** chronicles a brutal, cross
 ## Links & References
 * [The Apothecary Diaries on MyAnimeList](https://myanimelist.net/anime/54492/Kusuriya_no_Hitorigoto)
 * [Steel Ball Run on MyAnimeList](https://myanimelist.net/manga/1701/JoJo_no_Kimyou_na_Bouken_Part_7__Steel_Ball_Run)
+
+## Link to FIGMA activity
+* [EasyPC Mobile interface](https://www.figma.com/design/sVFi70Fhoi3y4IQrXJDxke/Untitled?node-id=0-1&t=hDDj0i2j2spAFQ0k-1)
